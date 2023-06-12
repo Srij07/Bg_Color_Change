@@ -4,9 +4,9 @@ PixelLib requires python’s version 3.5-3.7.
 It requires pip’s version >= 19.0
 
 **Step :1**
-pip3 install pip
-pip3 install tensorflow
-pip3 install imgaug
+pip3 install pip,
+pip3 install tensorflow,
+pip3 install imgaug,
 pip3 install pixellib --upgrade
 
 **Step :2**
